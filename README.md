@@ -16,6 +16,7 @@ You need the following before you start working on this project locally ;
 2. Flask
 3. Pip
 4. Virtual Environment(venv)- which is installed by : ***python3 -m venv Virtual*** and activated by typing the following command on your terminal :( ***source/bin/activate***)
+
 5. A text editor
 
 ## Project SetUp
