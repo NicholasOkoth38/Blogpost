@@ -19,10 +19,11 @@ You need the following before you start working on this project locally ;
 
 5. A text editor
 
+
 ## Project SetUp
 
 1. Git clone using this link:()
-2. Naviagate to the folder(Blog)) using the terminal. ( Blog))
+2. Navigate to the folder(Blog)) using the terminal. ( Blog))
 3. pip install -r requirements.txt -This command will install all the extensions(dependancies) needed to run the application.
 4. Open it in your text editor.
 
