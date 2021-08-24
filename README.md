@@ -49,8 +49,6 @@ $ ***./start.sh***
 
 View [live](/).
 
-## Enjoy :)
-
 **-2021**
 
 ### Licence
