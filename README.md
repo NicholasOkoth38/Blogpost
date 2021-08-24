@@ -29,6 +29,7 @@ You need the following before you start working on this project locally ;
 
 In your terminal, run the following commands;
 
+
 $ ***chmod a+x start.sh***
 
 $ ***./start.sh***
