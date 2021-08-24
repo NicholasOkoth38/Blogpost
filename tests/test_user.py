@@ -19,4 +19,5 @@ class UserModelTest(unittest.TestCase):
     def tearDown(self):
         user = User.query.filter_by(username="mayan").first()
         if user:
-            print("password confirmed")        
+            print("password confirmed")    
+                
