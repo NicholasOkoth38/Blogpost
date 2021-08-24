@@ -21,3 +21,4 @@ class UserModelTest(unittest.TestCase):
         if user:
             print("password confirmed")    
 
+
