@@ -6,7 +6,7 @@ Nicholas Owino.
 
 ## Description
 
-Glam-bay is a flask application that allows writers to post blogs, update and delete blogs. It also allows users who are signed up to comment on the blogs that has been posted by a writer.
+Blog is a flask application that allows writers to post blogs, update and delete blogs. It also allows users who are signed up to comment on the blogs that has been posted by a writer.
 
 ## Prerequisites
 
