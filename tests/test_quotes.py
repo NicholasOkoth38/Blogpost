@@ -3,7 +3,7 @@ from app.models import Quote
 
 class TestQuote(unittest.TestCase):
     def setUp(self):
-       
+    
         self.random_quote = Quote( "Its Nick again","Why always me each time tommorrow might be be the best time ever")
 
     def test_instance(self):
