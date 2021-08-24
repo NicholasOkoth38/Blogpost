@@ -12,3 +12,4 @@ class TestQuote(unittest.TestCase):
     def test_init(self):
         self.assertEqual(self.random_quote.author,"Its Nick again" )
         self.assertEqual(self.random_quote.quote,"Why always me each time tommorrow might be be the best time ever")
+        
